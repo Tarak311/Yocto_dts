@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/tarak/bbb/build/tmp
+SSTATE_DIR /home/tarak/bbb/build/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
